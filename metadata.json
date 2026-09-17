@@ -1,0 +1,6 @@
+{
+  "name": "dentfull - Industrial Steel & Alloys Manufacturing",
+  "description": "Leading global B2B manufacturer and exporter of prime carbon steel, stainless steel, galvanized coils, and industrial alloys. Certifications ISO 9001, CE, SGS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
