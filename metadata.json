@@ -1,6 +1,0 @@
-{
-  "name": "dentfull - Industrial & Manufacturing Steel Materials",
-  "description": "High-converting B2B industrial manufacturing product portal for dentfull.com, featuring Hot Rolled Steel Coils with detailed specifications, quality control, and direct RFQ dispatch to sales@dentfull.com.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
